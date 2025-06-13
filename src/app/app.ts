@@ -6,4 +6,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.html',
 })
 export class App {
+  get data(): string {
+    return someglobalobject.data;
+  }
 }
