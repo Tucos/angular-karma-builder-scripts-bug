@@ -72,9 +72,6 @@
               "zone.js/testing"
             ],
             "tsConfig": "tsconfig.spec.json",
-            "assets": [
-              "src/someglobalobject.js"
-            ],
             "scripts": [
               "src/someglobalobject.js"
             ],

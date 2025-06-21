@@ -1,3 +1,6 @@
+> [!NOTE]
+> This has been fixed as part of `@angular/cli` version [2.0.3](https://github.com/angular/angular-cli/releases/tag/20.0.3)
+
 # `@angular/build:karma` with scripts configured
 
 This has been reported as https://github.com/angular/angular/issues/62044
